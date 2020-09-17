@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1234",
+    "database": "weather",
+    "host": "dbpostgres",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "1234",
+    "database": "weather_test",
+    "host": "dbpostgres",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "1234",
+    "database": "weather_production",
+    "host": "dbpostgres",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
